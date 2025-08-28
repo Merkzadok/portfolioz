@@ -47,18 +47,18 @@ const Projects: React.FC = () => {
       demo: "https://example.com",
       date: "2025",
     },
-    {
-      id: 5,
-      title: "Weather Forecast App",
-      description:
-        "A beautiful weather application with location-based forecasts, interactive maps, and detailed weather analytics.",
-      image:
-        "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600",
-      tech: ["React Native", "OpenWeather API", "Redux", "Maps API"],
-      github: "https://github.com",
-      demo: "https://example.com",
-      date: "2023",
-    },
+    // {
+    //   id: 5,
+    //   title: "Weather Forecast App",
+    //   description:
+    //     "A beautiful weather application with location-based forecasts, interactive maps, and detailed weather analytics.",
+    //   image:
+    //     "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600",
+    //   tech: ["React Native", "OpenWeather API", "Redux", "Maps API"],
+    //   github: "https://github.com",
+    //   demo: "https://example.com",
+    //   date: "2023",
+    // },
   ];
 
   return (
